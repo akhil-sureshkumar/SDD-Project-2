@@ -1,0 +1,30 @@
+C:\Users\Akhil\source\repos\SDD HSC AT3\bin\Debug\SDD HSC AT3.exe.config
+C:\Users\Akhil\source\repos\SDD HSC AT3\bin\Debug\SDD HSC AT3.exe
+C:\Users\Akhil\source\repos\SDD HSC AT3\bin\Debug\SDD HSC AT3.pdb
+C:\Users\Akhil\source\repos\SDD HSC AT3\bin\Debug\SDD HSC AT3.xml
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbprojAssemblyReference.cache
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.Form1.resources
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.Resources.resources
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbproj.GenerateResource.cache
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbproj.CoreCompileInputs.cache
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.exe
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.xml
+C:\Users\Akhil\source\repos\SDD HSC AT3\obj\Debug\SDD HSC AT3.pdb
+C:\Users\Akhil\Downloads\SDD HSC AT3\bin\Debug\SDD HSC AT3.exe.config
+C:\Users\Akhil\Downloads\SDD HSC AT3\bin\Debug\SDD HSC AT3.exe
+C:\Users\Akhil\Downloads\SDD HSC AT3\bin\Debug\SDD HSC AT3.pdb
+C:\Users\Akhil\Downloads\SDD HSC AT3\bin\Debug\SDD HSC AT3.xml
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbprojAssemblyReference.cache
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.Resources.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbproj.GenerateResource.cache
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.vbproj.CoreCompileInputs.cache
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.exe
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.xml
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD HSC AT3.pdb
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.GetTestFile.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.GetText.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.HomePage.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.StudentInterface.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.Form1.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.GetPreview.resources
+C:\Users\Akhil\Downloads\SDD HSC AT3\obj\Debug\SDD_HSC_AT3.HelpForm.resources

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SDD HSC AT3
+</name>
+</assembly>
+<members>
+<member name="T:SDD_HSC_AT3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SDD_HSC_AT3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SDD_HSC_AT3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SDD_HSC_AT3.My.Resources.Resources.helpmenu">
+<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.18362}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9 Welcome to the help section! This page will assist you in learning how to use the program.\par
+To get started, choose whether you are a teacher or a student:\par
+
+\pard\sa200\sl240\slmult1{\pict{\*\picprop}\wmetafile8\picw15240\pich9229\picwgoal8640\pichgoal5232 
+010009000003265409000000105409000000050000000b02000000000500 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
